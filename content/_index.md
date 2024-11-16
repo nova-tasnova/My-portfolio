@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: resume.pdf
     design:
       css_class: dark
       background:
@@ -32,53 +32,29 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '🎯Upcoming Goal'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+       My persue is to enhance my skills and take on more complex projects. I aim to master advanced HTML, CSS, and JavaScript techniques, focusing on responsive design and interactive features. Expanding my knowledge of SQL will allow me to build dynamic, data-driven applications, while exploring biometric systems will add a cutting-edge security aspect to my projects. I also plan to dive into full-stack development with Node.js and Express.js, enabling me to create end-to-end applications. Contributing to open-source projects and building a personal portfolio website will further help me grow professionally. Staying updated with industry trends and experimenting with new technologies will ensure I stay at the forefront of web development🚀
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      view: article-grid
-      columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
+       I’m excited to push my expertise in HTML, CSS, and JavaScript further, mastering modern frameworks and libraries to build dynamic and responsive web applications 😎. I also plan to deepen my SQL skills for creating robust, data-driven systems and integrate biometric technology to enhance security features in my projects. Expanding into full-stack development with Node.js and Express will allow me to handle both front-end and back-end tasks, creating comprehensive applications. Through contributing to open-source projects and building a standout portfolio, I aim to grow my professional presence and stay on top of emerging web development trends. This will set me on a path to becoming a versatile and innovative developer.
+   
   - block: collection
     id: talks
-    content:
-      title: Recent & Upcoming Talks
+    content: 
+      title: Exercise-list
       filters:
         folders:
           - event
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: news
+  - block: 
+    id: 
     content:
-      title: Recent News
-      subtitle: ''
-      text: ''
+      title: 
+      subtitle:
+      text: 
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
@@ -98,7 +74,7 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: date-title-summary
+      view: 
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]

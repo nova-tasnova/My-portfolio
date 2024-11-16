@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contact | Hugo Academic CV Theme</title>
+    <link>http://localhost:1240/tags/contact/</link>
+      <atom:link href="http://localhost:1240/tags/contact/index.xml" rel="self" type="application/rss+xml" />
+    <description>Contact</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1240/media/icon_hu7729264130191091259.png</url>
+      <title>Contact</title>
+      <link>http://localhost:1240/tags/contact/</link>
+    </image>
+    
+    <item>
+      <title>Curriculum Vitae</title>
+      <link>http://localhost:1240/cv/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1240/cv/</guid>
+      <description>&lt;h2 id=&#34;curriculum-vitae&#34;&gt;&lt;strong&gt;Curriculum Vitae&lt;/strong&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;1-personal-information&#34;&gt;&lt;strong&gt;1. Personal Information&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Name:&lt;/strong&gt; Sadnan Sami&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:sadnansami50@gmail.com&#34;&gt;sadnansami50@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01521221566&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;#&#34;&gt;LinkedIn Profile&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;#&#34;&gt;GitHub Profile&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-objective&#34;&gt;&lt;strong&gt;2. Objective&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;To become a skilled front-end web developer, leveraging my knowledge and creativity to build intuitive and functional user interfaces.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;3-education&#34;&gt;&lt;strong&gt;3. Education&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Bachelor of Science in Computer Science and Engineering&lt;/strong&gt;&lt;br&gt;
+Jahangirnagar University, Bangladesh&lt;br&gt;
+&lt;strong&gt;Expected Graduation:&lt;/strong&gt; [Year]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;4-skills&#34;&gt;&lt;strong&gt;4. Skills&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Programming Languages:&lt;/strong&gt; Python, Java, JavaScript&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Web Development:&lt;/strong&gt; HTML, CSS, TailwindCSS, JavaScript, React&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools and Technologies:&lt;/strong&gt; VS Code, Git&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Others:&lt;/strong&gt; Problem-solving, teamwork&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;5-projects&#34;&gt;&lt;strong&gt;5. Projects&lt;/strong&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;biometric-student-attendance-system&#34;&gt;&lt;strong&gt;Biometric Student Attendance System&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Implemented attendance recording, leave application, and email notification features.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Technologies Used:&lt;/strong&gt; Django, JavaScript, HTML/CSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;portfolio-website&#34;&gt;&lt;strong&gt;Portfolio Website&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Designed and developed a personal portfolio using Hugo and TailwindCSS.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;6-achievements&#34;&gt;&lt;strong&gt;6. Achievements&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Secured [mention achievements, such as high grades, awards, certifications, etc.]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;7-interests&#34;&gt;&lt;strong&gt;7. Interests&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Front-end Development&lt;/li&gt;
+&lt;li&gt;Creative Design&lt;/li&gt;
+&lt;li&gt;Learning new web technologies&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;8-references&#34;&gt;&lt;strong&gt;8. References&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Available upon request.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

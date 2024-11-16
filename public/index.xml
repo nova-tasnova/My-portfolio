@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio</title>
+    <link>http://localhost:1313/</link>
+      <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <description>My Portfolio</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>My Portfolio</title>
+      <link>http://localhost:1313/</link>
+    </image>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h2 id=&#34;get-in-touch&#34;&gt;Get in Touch&lt;/h2&gt;
+&lt;p&gt;If you have any questions, feel free to reach out to me:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:novatasnovaeffat@gmail.com&#34;&gt;novatasnovaeffat@gmail.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01973369404&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Social Media:&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;[Twitter] &lt;a href=&#34;https://x.com/effat2727&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://x.com/effat2727&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[LinkedIn] &lt;a href=&#34;https://www.linkedin.com/in/tasnova-effat-nova-677752241/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.linkedin.com/in/tasnova-effat-nova-677752241/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;[GitHub] &lt;a href=&#34;https://github.com/nova-tasnova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/nova-tasnova&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Curriculam vitae</title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description>&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;flex justify-center	&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;./IMG_20200504_203259_610.jpg&#34; alt=&#34;Tasnova Effat Nova&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h1 id=&#34;tasnova-effat-nova&#34;&gt;&lt;strong&gt;Tasnova Effat Nova&lt;/strong&gt;&lt;/h1&gt;
+&lt;h3 id=&#34;front-end-developer--student-at-jahangirnagar-university&#34;&gt;Front-End Developer | Student at Jahangirnagar University&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Designing experiences, not just websites.&amp;rdquo;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;personal-details&#34;&gt;&lt;strong&gt;Personal Details&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:novatasnovaeffat@email.com&#34;&gt;novatasnovaeffat@email.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Phone:&lt;/strong&gt; 01973369404&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;LinkedIn:&lt;/strong&gt; &lt;a href=&#34;https://www.linkedin.com/in/tasnova-effat-nova-677752241/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;TasnovaEffatNova&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;GitHub:&lt;/strong&gt; &lt;a href=&#34;https://github.com/nova-tasnova&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;nova-tasnova&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blood Group:&lt;/strong&gt; O+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;profile&#34;&gt;&lt;strong&gt;Profile&lt;/strong&gt;&lt;/h2&gt;
+&lt;p&gt;I am a motivated Front-End Developer with strong academic achievements and a passion for creating responsive and visually appealing web applications. My approach blends creativity with technology, aiming to deliver exceptional user experiences. Currently pursuing a Computer Science degree at Jahangirnagar University.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;education&#34;&gt;&lt;strong&gt;Education&lt;/strong&gt;&lt;/h2&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Degree&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Institute&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Result&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Year&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;B.Sc. in Computer Science&lt;/td&gt;
+          &lt;td&gt;Jahangirnagar University&lt;/td&gt;
+          &lt;td&gt;Ongoing&lt;/td&gt;
+          &lt;td&gt;2026&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;HSC&lt;/td&gt;
+          &lt;td&gt;Govt. Hazi Md. Mohsin College&lt;/td&gt;
+          &lt;td&gt;4.92&lt;/td&gt;
+          &lt;td&gt;2019&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;SSC&lt;/td&gt;
+          &lt;td&gt;Dr. Khastagir Govt. High School&lt;/td&gt;
+          &lt;td&gt;5.00&lt;/td&gt;
+          &lt;td&gt;2017&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;key-skills&#34;&gt;&lt;strong&gt;Key Skills&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Web Development:&lt;/strong&gt; HTML, CSS, JavaScript, React&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Frameworks:&lt;/strong&gt; Bootstrap, Tailwind CSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Tools:&lt;/strong&gt; Git, Visual Studio Code, Webpack&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Responsive Design:&lt;/strong&gt; Flexbox, CSS Grid&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Languages:&lt;/strong&gt; Bengali, English, Hindi&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;technical-projects&#34;&gt;&lt;strong&gt;Technical Projects&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Interactive Portfolio Website&lt;/strong&gt;&lt;br&gt;
+A personal project showcasing my skills, education, and work, developed with React and hosted on GitHub Pages.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Biometric Students Attendance System&lt;/strong&gt;&lt;br&gt;
+Developed a biometric student attendance system with a user-friendly interface, leveraging fingerprint technology for accurate attendance tracking. Integrated with  database for real-time record management and automated notifications for absencees.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;JavaScript Game Development&lt;/strong&gt;&lt;br&gt;
+Created a browser-based Tic-Tac-Toe game, focusing on algorithmic design and UI/UX.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;certifications&#34;&gt;&lt;strong&gt;Certifications&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Front-End Developer Certificate&lt;/strong&gt; - FreeCodeCamp&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;achievements&#34;&gt;&lt;strong&gt;Achievements&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Academic Excellence:&lt;/strong&gt; Top GPA in SSC and HSC examinations.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;interests&#34;&gt;&lt;strong&gt;Interests&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Exploring new web technologies.&lt;/li&gt;
+&lt;li&gt;Blogging about user-friendly design.&lt;/li&gt;
+&lt;li&gt;Volunteering in community tech literacy programs.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;references&#34;&gt;&lt;strong&gt;References&lt;/strong&gt;&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Assistant Professor   Md. Rafsan Jani&lt;/strong&gt;&lt;br&gt;
+Dept. of Computer Science, Jahangirnagar University&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Mr. Ashik Uddin&lt;/strong&gt;&lt;br&gt;
+Senior Software Engineer, ABC Ltd.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tic-Tac-Toe</title>
+      <link>http://localhost:1313/project/tic-tac-toe/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/tic-tac-toe/</guid>
+      <description>&lt;p&gt;&amp;ldquo;I&amp;rsquo;ve created a Tic-Tac-Toe game using JavaScript—feeling great about this interactive project!&amp;rdquo; 🎮✨&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Personal-Portfolio</title>
+      <link>http://localhost:1313/project/scikit/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/scikit/</guid>
+      <description>&lt;p&gt;A personal portfolio is a collection of work, projects, and achievements that showcase your skills, expertise, and experiences.It is essential for building your online presence, especially in creative or technical fields like web development&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Product-Landing-page</title>
+      <link>http://localhost:1313/project/landing/</link>
+      <pubDate>Tue, 25 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/landing/</guid>
+      <description>&lt;p&gt;&amp;ldquo;I&amp;rsquo;ve designed a product landing page for classic books—celebrating timeless literature with style!&amp;rdquo; 📚✨&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cat-Photo-Gallery</title>
+      <link>http://localhost:1313/project/cat/</link>
+      <pubDate>Wed, 20 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/cat/</guid>
+      <description>&lt;p&gt;&amp;ldquo;I&amp;rsquo;ve created a cute and creative cat photo gallery—super excited about it! 🐱✨&amp;rdquo;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Survey_Form</title>
+      <link>http://localhost:1313/project/pandas/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pandas/</guid>
+      <description>&lt;p&gt;This is a complete survey form&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Tribute_Page</title>
+      <link>http://localhost:1313/project/pytorch/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/pytorch/</guid>
+      <description>&lt;p&gt;I have created a heartfelt tribute page dedicated to Dr. Muhammad Yunus, celebrating his remarkable contributions to society.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Experience</title>
+      <link>http://localhost:1313/experience/</link>
+      <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My FreeCodeCamp Journey</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Thu, 01 Jun 2023 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical-Documentation-Page</title>
+      <link>http://localhost:1313/project/documentation/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/documentation/</guid>
+      <description>&lt;p&gt;&amp;ldquo;I&amp;rsquo;ve created a detailed technical documentation on Java—proud of this accomplishment!&amp;rdquo; ☕📘&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,13 +1,11 @@
 ---
-title: Pandas
+title: Survey_Form
 date: 2023-10-26
-external_link: https://github.com/pandas-dev/pandas
+external_link: https://nova-tasnova.github.io/Survey-Form/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
+This is a complete survey form
 
 <!--more-->

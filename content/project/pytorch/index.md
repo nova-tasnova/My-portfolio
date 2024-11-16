@@ -1,13 +1,9 @@
 ---
-title: PyTorch
+title: Tribute_Page
 date: 2023-10-26
-external_link: https://github.com/pytorch/pytorch
+external_link: https://nova-tasnova.github.io/Tribute-Page/
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  
 ---
-
-PyTorch is a Python package that provides tensor computation (like NumPy) with strong GPU acceleration.
-
+I have created a heartfelt tribute page dedicated to Dr. Muhammad Yunus, celebrating his remarkable contributions to society.
 <!--more-->
